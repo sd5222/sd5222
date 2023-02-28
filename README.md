@@ -20,11 +20,12 @@
 
 <!-- CONTACTO -->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="centre">
-  
-<a href="https://linkedin.com/in/siddharth-daga-a3a3531bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="https://instagram.com/sid_27_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sd5222" height="30" width="40" /></a>
-</p>
+<p align="left">
+  <a href="https://linkedin.com/in/siddharth-daga-a3a3531bb"><img alt="Linkedin" title="Siddharth Daga Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/sd5222"><img alt="Github" title="Siddharth Daga Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.snapchat.com/add/sid_d6876"><img alt="Bad Boy Snapchat" title="Siddharth Daga SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
+  <a href="https://instagram.com/sid_27_10"><img alt="Instagram" title="Siddharth Daga Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
