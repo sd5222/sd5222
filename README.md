@@ -15,7 +15,7 @@
 
 - 🌱 I am currently in the race **Data analysis and its application**
 
-- 🏙 Content Creator | Student Guide https://www.youtube.com/channel/UCfERUUeZsVwa1SwVXpCRlTg
+- 🏙 Content Creator | Student Guide [sidandsangam](https://www.youtube.com/channel/UCfERUUeZsVwa1SwVXpCRlTg)
 
 - 📫 How to reach me **dagasiddharth27@gmail.com**
 
