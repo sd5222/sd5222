@@ -4,11 +4,7 @@
 <!-- GIF HEADER -->
 <img src="/Untitled Design.png">
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sd5222&label=Profile%20views&color=0e75b6&style=flat" alt="sd5222" /> </p>
-
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sd5222&theme=dracula&column=7" alt="sd5222" /></a> </p>
+![GitHub followers](https://img.shields.io/github/followers/sd5222?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/sd5222?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sd5222.repoName) <img src="https://komarev.com/ghpvc/?username=sd5222" alt="sd5222" />
 
 <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
@@ -52,9 +48,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sd5222&theme=onestar&no-frame=true&column=3&row=2)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sd5222&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/sd5222?&logoColor=red&style=social">](https://github.com/sd5222?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/sd5222/TranslatorSelenium?logoColor=red&style=social">](https://github.com/sd5222/TranslatorSelenium/network/members)
 
 
 <!-- RAINBOW LINE BOT -->
