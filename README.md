@@ -10,6 +10,9 @@
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sd5222&theme=dracula&column=7" alt="sd5222" /></a> </p>
 
+<!--suppress HtmlDeprecatedAttribute -->
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [SRM UNIVERSITY](https://www.srmist.edu.in/)
 
@@ -20,16 +23,17 @@
 - 📫 How to reach me **dagasiddharth27@gmail.com**
 
 <!-- CONTACTO -->
-<h3 align="centre">Connect with me:</h3>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="centre">
+  
 <a href="https://linkedin.com/in/siddharth-daga-a3a3531bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
 <a href="https://instagram.com/sid_27_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sd5222" height="30" width="40" /></a>
 </p>
 
-<!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="centre">Languages and Tools:</h3>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="centre">
+  
   
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -41,14 +45,17 @@
   
   </p>
 
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=sd5222&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd5222&layout=compact&theme=gotham&langs_count=8"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sd5222&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd5222&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+## GitHub Stats 📈 :
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sd5222&theme=onestar&no-frame=true&column=3&row=2)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sd5222&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/sd5222?&logoColor=red&style=social">](https://github.com/sd5222?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/sd5222/TranslatorSelenium?logoColor=red&style=social">](https://github.com/sd5222/TranslatorSelenium/network/members)
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
