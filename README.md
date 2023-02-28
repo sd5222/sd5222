@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sd5222&theme=dracula&column=7" alt="sd5222" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [SRM UNIVERSITY](https://www.srmist.edu.in/)
 
 - 🌱 I am currently in the race **Software Design and Development**
 
