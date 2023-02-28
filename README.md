@@ -20,14 +20,14 @@
 - 📫 How to reach me **dagasiddharth27@gmail.com**
 
 <!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
 <a href="https://linkedin.com/in/siddharth-daga-a3a3531bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
 <a href="https://instagram.com/sid_27_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sd5222" height="30" width="40" /></a>
 </p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="centre">Languages and Tools:</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
