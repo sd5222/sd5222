@@ -13,11 +13,11 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [SRM UNIVERSITY](https://www.srmist.edu.in/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race **Data analysis and its application**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🏙 Content Creator | Student Guide https://www.youtube.com/channel/UCfERUUeZsVwa1SwVXpCRlTg
 
-- 📫 How to reach me **dagasiddharyh27@gmail.com**
+- 📫 How to reach me **dagasiddharth27@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
